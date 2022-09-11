@@ -25,7 +25,7 @@
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
   <br>
-
-  ![Languages](https://raw.githubusercontent.com/montesajudy/github-stats/master/generated/languages.svg)
+  
   ![Statistics](https://raw.githubusercontent.com/montesajudy/github-stats/master/generated/overview.svg)
+  ![Languages](https://raw.githubusercontent.com/montesajudy/github-stats/master/generated/languages.svg)
 </div>
