@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/montesajudy/montesajudy/main/img/d8-cropped.jpg" alt="Judy Montesa GitHub image header"><br>
+<img src="https://raw.githubusercontent.com/montesajudy/montesajudy/main/img/d8-cropped-rounded.png" alt="Judy Montesa GitHub image header"><br>
 
 <div align=center>
   <p>
