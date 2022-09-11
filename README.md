@@ -15,6 +15,7 @@
   <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain-wordmark.svg"></code>
