@@ -8,12 +8,7 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=montesajudy&style=for-the-badge&color=2E71A0)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=montesajudy&hide_border=true&currStreakNum=2E71A0&sideNums=2E71A0)](https://git.io/streak-stats)
-
-  ![Languages](https://raw.githubusercontent.com/montesajudy/github-stats/master/generated/languages.svg)
-  ![Statistics](https://raw.githubusercontent.com/montesajudy/github-stats/master/generated/overview.svg)
-
-  <br>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=montesajudy&hide_border=true&currStreakNum=2E71A0&sideNums=2E71A0)
 
   [comment]: # (Tools and Languages)
   <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -29,4 +24,8 @@
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
+  <br>
+
+  ![Languages](https://raw.githubusercontent.com/montesajudy/github-stats/master/generated/languages.svg)
+  ![Statistics](https://raw.githubusercontent.com/montesajudy/github-stats/master/generated/overview.svg)
 </div>
